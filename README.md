@@ -17,3 +17,10 @@ Starting guild for Pygame AI training and play ( simple policy )
 🦭💬 There is no way to form coefficients from our polynomials equation to perform this complex task and vary by its input but simple policy for multiple policies can do it easily by us human merged requirements is one method of the solution from the AI machine learning, merged requirements form today our instruments such as sensors, calibrators, equalizers and even they are using in complex response alarm firewalls or notification system. </br>
 🐯💬 Culture-INFO, merged requirements can perform verification by their input as rules bases and test cases this way is similar to the comparison method where there is more than one requirement all are responses to each scenario. </br>
 🦁💬 Simple stage policy is also one method to perform verification because AI machines can work as state machines and response within action they are advised by advisory networks or their dataset, they respond while stage changing within drawing scopes of resolution. </br>
+
+<p align="center" width="100%">
+    <img width="25%" src="https://github.com/jkaewprateep/starting_guide_pygames_AI/blob/main/2000%20hits-training.gif"></br>
+    <b> Training 2,000 times action by guilding algorithms </b> </br>
+</p>
+</br>
+</br>

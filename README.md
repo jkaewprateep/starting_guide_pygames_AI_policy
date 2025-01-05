@@ -9,3 +9,7 @@ Starting guild for Pygame AI training and play ( simple policy )
     <b> Pygame and Tensorflow AI machine learning </b> </br>
     <b> ( Picture from Internet ) </b> </br>
 </p>
+
+[Flappybird games]( https://pygame-learning-environment.readthedocs.io/en/latest/user/games/flappybird.html#rewards )
+
+🧸💬 In some cases of game training we do not have to input all possible action responses to inputs. Still, we can create a  simple policy showing how feedback on the model training is rewarding, the same as reinforcement learning. By simple policy same as we create equation guidelines for machine learning to find solution feedback in the scope with rewards and punishment training feedback method. </br>

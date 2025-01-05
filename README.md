@@ -26,3 +26,12 @@ Starting guild for Pygame AI training and play ( simple policy )
 </br>
 
 🐐💬 Machine learning AI still finds solutions in the scopes of reinforcement machine learning should perform this way to prevent the waste of the computing cycle by inputting our known scopes into the scopes of learning action to solution and we can make it easy as rewards punishment or list of action mapping to machine states. </br>
+
+<p align="center" width="100%">
+    <img width="25%" src="https://github.com/jkaewprateep/starting_guide_pygames_AI_policy/blob/main/FlappyBird_small.gif"></br>
+    <b> Training more than 10,000 times action by guilding algorithms </b> </br>
+</p>
+</br>
+</br>
+
+🧸💬 

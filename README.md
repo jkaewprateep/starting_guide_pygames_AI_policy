@@ -61,6 +61,7 @@ scores = scores + ( reward * 10 ) + bonus_reward;
 
 👧💬 🎈 We create rules and policies where machine learning finds solutions for us. </br>
 👧💬 🎈 Do not just look up the answer figure it out and apply it to machine learning why only some people can make the Flappy Bird fly though. </br>
+👧💬 🎈 เสมียนข้างบ้านบอกมา 👤💬 กูใช้แค่ลบเท่านั้น
 ```
 def apply_policy():
     

@@ -35,3 +35,44 @@ Starting guild for Pygame AI training and play ( simple policy )
 </br>
 
 🧸💬 There are many way to have this solution but there are many ways to work until this solution by the input of different input, methods, and resources where utilization is compared by how much proficiency is provided by the method compared to simple or another method (the same output from different inputs may have different proficiency)  </br>
+
+🧸💬 Model training
+```
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+: Training
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+# history = model.fit(dataset, epochs=3, callbacks=[custom_callback])
+history = model.fit(dataset, epochs=epochs)
+model.save_weights(checkpoint_path)
+
+action = predict_action(DATA);
+# print(action)   
+
+bonus_reward = 0;
+if action == 1 and apply_policy() :
+    bonus_reward = 0.50;     
+    
+if sum(history.history["loss"]) >=  epochs * 0.21:
+    action = random_action(); 
+
+reward = p.act(list(actions.values())[action])
+scores = scores + ( reward * 10 ) + bonus_reward;
+```
+
+👧💬 🎈 We create rules and policies where machine learning finds solutions for us. <//br>
+```
+def apply_policy():
+    
+    if _gamestate["player_y"] - int(_gamestate["next_pipe_bottom_y"]) > -35 :
+        return True
+    
+    return False
+```
+
+---
+
+<p align="center" width="100%">
+    <img width="30%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/custom_dataset.png">
+    <img width="30%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/custom_dataset_2.png"> </br>
+    <b> 🥺💬 รับจ้างเขียน functions </b> </br>
+</p

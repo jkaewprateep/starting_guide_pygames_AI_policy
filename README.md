@@ -59,7 +59,8 @@ reward = p.act(list(actions.values())[action])
 scores = scores + ( reward * 10 ) + bonus_reward;
 ```
 
-👧💬 🎈 We create rules and policies where machine learning finds solutions for us. <//br>
+👧💬 🎈 We create rules and policies where machine learning finds solutions for us. </br>
+👧💬 🎈 Do not just look up the answer figure it out and apply it to machine learning why only some people can make the Flappy Bird fly though. </br>
 ```
 def apply_policy():
     

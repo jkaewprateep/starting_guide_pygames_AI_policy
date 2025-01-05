@@ -34,4 +34,4 @@ Starting guild for Pygame AI training and play ( simple policy )
 </br>
 </br>
 
-🧸💬 
+🧸💬 There are many way to have this solution but there are many ways to work until this solution by the input of different input, methods, and resources where utilization is compared by how much proficiency is provided by the method compared to simple or another method (the same output from different inputs may have different proficiency)  </br>
